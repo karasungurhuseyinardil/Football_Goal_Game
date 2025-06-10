@@ -34,9 +34,6 @@ This project simulates a simplified version of a football penalty shootout. The 
 3. Compile and run the main class (`Main.java` or similar entry point).
 4. Click **Start Game** to begin playing.
 
-## 📷 Screenshots
-
-*(Add screenshots here if available)*
 
 ## 📌 Notes
 
